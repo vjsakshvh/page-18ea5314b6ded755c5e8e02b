@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://home.gzmkc.cn/sitemap.xml

@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a79f97cc99c58bce84e6206f",
+  "owner": "vjsakshvh",
+  "repo": "page-18ea5314b6ded755c5e8e02b",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "18ea5314b6ded755c5e8e02b",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d7b50eeee109f4ad78752ea557cd5378643d0c8ce1673dfe3e9eb92ab091bd20",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬VPN提供专业网络加速解决方案，包含多种流量套餐，支持多设备在线。立即访问官网下载客户端，畅享高速稳定的网络体验。",
+          "AI_DESCRIPTION": "快柠檬VPN提供专业网络加速解决方案，包含多种流量套餐，支持多设备在线。立即访问官网下载客户端，畅享高速稳定的网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    <style>\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            line-height: 1.7;\n            margin: 0;\n            padding: 0;\n            background: #F8F4E8;\n            color: #333;\n        }\n        main {\n            max-width: 780px;\n            margin: 0 auto;\n            padding: 20px 15px;\n        }\n        nav {\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n            padding: 1rem 0;\n            border-bottom: 2px solid #E8E0D0;\n        }\n        .logo {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: #2E8B57;\n        }\n        h1 {\n            font-size: 2.5rem;\n            margin: 1.5rem 0 0.8rem;\n            color: #2E8B57;\n        }\n        section {\n            background: #fff;\n            margin-bottom: 2rem;\n            padding: 2rem;\n            border-radius: 12px;\n            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);\n        }\n        h2 {\n            color: #2C3E50;\n            margin-bottom: 1.2rem;\n        }\n        p {\n            margin-bottom: 1rem;\n        }\n        ul, ol {\n            padding-left: 1.2rem;\n        }\n        li {\n            margin-bottom: 0.6rem;\n        }\n        .step {\n            display: flex;\n            align-items: flex-start;\n            gap: 1rem;\n            margin-bottom: 1.2rem;\n        }\n        .step-num {\n            background: #2E8B57;\n            color: white;\n            width: 30px;\n            height: 30px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            font-weight: bold;\n            flex-shrink: 0;\n        }\n        a {\n            background-color: #2E8B57;\n            color: white;\n            border: none;\n            padding: 12px 28px;\n            border-radius: 6px;\n            cursor: pointer;\n            font-size: 1rem;\n            text-decoration: none;\n            display: inline-block;\n            transition: background 0.3s;\n        }\n        a:hover {\n            background-color: #1E6F44;\n        }\n        details {\n            border: 1px solid #ddd;\n            border-radius: 8px;\n            margin-bottom: 12px;\n        }\n        summary {\n            font-weight: bold;\n            padding: 12px 16px;\n            cursor: pointer;\n            list-style: none;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            text-align: center;\n            padding: 2rem;\n            color: #777;\n        }\n        @media (max-width: 640px) {\n            h1 {\n                font-size: 2rem;\n            }\n            section {\n                padding: 1.5rem;\n            }\n        }\n    </style>\n\n\n    <main>\n        <nav>\n            <div class=\"logo\">快柠檬</div>\n            <div>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#faq\">常见问题</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n        </nav>\n        <h1>快柠檬</h1>\n        <section>\n            <p>快柠檬VPN致力于为您提供高效稳定的网络加速服务。无论您是个人用户还是团队，都能找到匹配的需求方案。</p>\n            <p>我们不断优化线路，确保您获得最佳的节点连接速度和稳定性。</p>\n        </section>\n        <section>\n            <h2>使用步骤</h2>\n            <div class=\"step\">\n                <div class=\"step-num\">1</div>\n                <div>\n                    <strong>选择套餐</strong><br>\n                    挑选适合您需求的套餐版本\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-num\">2</div>\n                <div>\n                    <strong>订阅支付</strong><br>\n                    完成安全支付流程\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-num\">3</div>\n                <div>\n                    <strong>下载客户端</strong><br>\n                    获取官方客户端\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-num\">4</div>\n                <div>\n                    <strong>安装登录</strong><br>\n                    注册账号并登录\n                </div>\n            </div>\n            <div class=\"step\">\n                <div class=\"step-num\">5</div>\n                <div>\n                    <strong>连接加速</strong><br>\n                    选择节点开始使用\n                </div>\n            </div>\n        </section>\n        <section id=\"plans\">\n            <h2>流量套餐</h2>\n            {{PLANS_HTML}}\n            <div>\n                <a href=\"#download\">立即了解更多</a>\n            </div>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <details>\n                <summary>快柠檬VPN是什么？</summary>\n                <p>快柠檬VPN是一款专业的网络加速工具，旨在提供稳定高速的连接服务，帮助用户突破网络限制并优化上网体验。</p>\n            </details>\n            <details>\n                <summary>如何选择适合的套餐？</summary>\n                <p>我们提供基础版、旗舰版和团队版，根据您的流量需求和设备数量选择最合适的方案。</p>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <p>快柠檬VPN支持多台设备同时在线，让您的家庭或团队网络更加高效便利。</p>\n            </details>\n            <details>\n                <summary>如何解锁流媒体？</summary>\n                <p>通过先进的节点和协议优化，我们可以帮助您解锁Netflix、YouTube等主流流媒体平台。</p>\n            </details>\n            <details>\n                <summary>如何获取客户端？</summary>\n                <p>访问我们的官网即可下载最新官方客户端，安装后即可使用。</p>\n            </details>\n        </section>\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            {{CLIENTS_HTML}}\n        </section>\n        <footer>\n            <p>© 2024 快柠檬VPN 保留所有权利</p>\n            <p>官方地址：<a href=\"#\">官网</a></p>\n        </footer>\n    </main>\n\n",
+          "hash": "7e26628d1ba0df24edb701d0f86d560236a546fd5fd235f53fb201e298f7abe9",
+          "seo": {
+            "title": "快柠檬VPN - 高效网络加速器 客户端下载",
+            "keywords": "快柠檬VPN,VPN加速器,梯子,网络加速,客户端下载,机场",
+            "description": "快柠檬VPN提供专业网络加速解决方案，包含多种流量套餐，支持多设备在线。立即访问官网下载客户端，畅享高速稳定的网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gzmkc.cn",
+    "host": "home.gzmkc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "gzmkc.cn",
+      "url": "https://gzmkc.cn/",
+      "label": "矢矧网络",
+      "apex": "gzmkc.cn",
+      "kind": null,
+      "identity": "tiaenzvpvn/page-37010a6d9d13039ac3bd5ba5"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3f41074c50bdde77ab230cc2949adae8232ae838b074bbb26d864e63f965f3e2",
+    "sitemap.xml": "8c21d8c067388e41ff987ad18400b3ad0d33f0928c17d0da3017d1b1069d2075",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0b4339acccc4519b7852a2a82947cd808e850250f1fe15f6fba25cdf1408afb6",
+    "robots.txt": "ea84701406c9fe2fc8064f954cce146dca62c8a00776362365dd727ad4cf2855",
+    "40714913231efbfc2aabab8f8023a1b5.txt": "bd626b93cc8b27ba5bb0795512efa094d9991af6963082fd7cb0a2f260a6fcb5"
+  },
+  "revision": "f8d53cc48c8c9b384b91508864aef2c7e734bbae3ebdcd1763aa3de50407e9af"
+}
